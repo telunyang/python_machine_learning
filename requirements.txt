@@ -1,8 +1,8 @@
-scikit-learn
-matplotlib
-pandas
-scipy
-statsmodels
-joblib
-seaborn
-imbalanced-learn
+scikit-learn==1.8.0
+matplotlib==3.10.8
+pandas==3.0.1
+pillow==12.1.1
+scipy==1.17.1
+statsmodels==0.14.6
+joblib==1.5.3
+imbalanced-learn==0.14.1
